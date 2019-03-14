@@ -1,5 +1,3 @@
-# StickyNotes
-
 # LIVE
 
 https://janszafran.github.io/StickyNotes/
