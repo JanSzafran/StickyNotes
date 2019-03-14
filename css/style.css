@@ -31,6 +31,11 @@ body {
 
 .note .bar:hover {
   cursor: move;
+  background-color: #78d3db;
+}
+
+.note:hover {
+  z-index: 1;
 }
 
 .note textarea {
@@ -43,5 +48,5 @@ body {
 }
 
 .create {
-  
+
 }
